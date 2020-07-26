@@ -1,3 +1,3 @@
 # calculator
 --------------------
-console calculator implemnted on Java
+console calculator implemented on Java
